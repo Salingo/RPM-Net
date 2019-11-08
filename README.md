@@ -1,6 +1,9 @@
 # RPM-Net
 RPM-Net: Recurrent Prediction of Motion and Parts from Point Cloud
 
+![overview](./doc/overview.png)
+
+
 ### Introduction
 
 We introduce RPM-Net, a deep learning-based approach which simultaneously infers movable parts and hallucinates their motions from a single, un-segmented, and possibly partial, 3D point cloud shape. 
@@ -8,7 +11,7 @@ RPM-Net is a novel Recurrent Neural Network (RNN), composed of an encoder-decode
 
 For more details, please refer to our [paper](http://vcc.szu.edu.cn/file/upload_file//image/research/att201911071109/RPM-Net_reduced.pdf).
 
-![overview](./doc/network.png)
+![network](./doc/network.png)
 
 ### Usage
 
